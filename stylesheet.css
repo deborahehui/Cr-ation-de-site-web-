@@ -6,3 +6,9 @@ line-height: 1.5;
 background-color: rgb(240, 240, 220);
 text-align: justify;
 }
+.image-sterlet {
+max-width: 400px; /* taille moyenne */
+display: block;
+margin-left: 0; /* aligné à gauche */
+margin-right: auto;
+}
